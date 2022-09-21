@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+    width: 60%;
+    margin: auto;
+}
+
+header {
+    background-color: aquamarine;
+    padding: 1rem;
+}
