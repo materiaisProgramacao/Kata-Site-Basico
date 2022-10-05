@@ -36,7 +36,7 @@ header {
 }
 
 11. Inserir no head de cada página o link para o CSS: 
-<link rel="stylesheet" href="style.css">
+- <link rel="stylesheet" href="style.css">
 
 
 
