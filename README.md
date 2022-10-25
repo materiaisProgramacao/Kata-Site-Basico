@@ -1,6 +1,6 @@
-# aula-21-09-2022
+# Kata - Site Básico
 
-Assuntos vistos:  
+Passos:  
 
 1. Abrir o PowerShell
 2. cd Desktop
