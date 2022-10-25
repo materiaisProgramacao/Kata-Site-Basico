@@ -3,8 +3,8 @@
 Passos:  
 
 1. Abrir o PowerShell
-2. cd Desktop
-3. mkdir novoProjeto
+2. ```cd Desktop```
+3. ```mkdir novoProjeto```
 4. cd novoProjeto
 5. code .
 
