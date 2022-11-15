@@ -18,7 +18,9 @@ Passos:
 Uma opção mais *semãntica*: ```nav>(a*3)```
   
   
-7.1 Usar o atributo ```href``` da tag ```<a>``` para apontar para os arquivos correspondentes (que ainda não criamos: sobre.html,  contato.html)  
+7.1 Usar o atributo ```href``` da tag ```<a>``` para apontar para os arquivos correspondentes:  
+- index.html  
+- e os que ainda não criamos: sobre.html e contato.html  
 
 8. Criar algum conteúdo fictício dentro do main  
 ```(p>lorem)*4```  
