@@ -42,7 +42,7 @@ header {
 }
 ```
 
-11. Inserir no head de cada página o link para o CSS:   
+11. Inserir no ```<head>``` (não confundir com o ```<header>```) de cada página o link para o CSS:   
 ```
     <link rel="stylesheet" href="style.css">
 ```
