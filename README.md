@@ -9,7 +9,7 @@ Passos:
 5. ```code .```
 
 6. Criar a estrutura básica   
-```html:5``` 
+```html:5```   
 ```header+main+footer``` (dentro do body)  
   
   
