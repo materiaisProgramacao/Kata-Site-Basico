@@ -26,6 +26,7 @@ Uma opção mais *semãntica*: ```nav>(a*3)```
 ```(p>lorem)*4```  
 
 9. Criar as outras páginas (sobre.html e contato.html)  
+9.1 Já podemos aproveitar e copiar o ```<header>``` da página inicial nas outras duas páginas.  
 
 10. Dentro da uma pasta styles, criar um arquivo style.css e copiar/colar os seguintes estilos:   
 ```
