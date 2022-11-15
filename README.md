@@ -8,7 +8,7 @@ Passos:
 4. ```cd novoProjeto```
 5. ```code .```
 
-6. Criar a estrutura básica   
+6. Em um arquivo index.html, criar a estrutura básica   
 ```html:5```   
 ```header+main+footer``` (dentro do body)  
   
