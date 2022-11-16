@@ -1,10 +1,10 @@
 body {
-    font-family: sans-serif;
-    width: 60%;
-    margin: auto;
+  font-family: sans-serif;
+  margin: auto;
+  width: 70%;
 }
 
 header {
-    background-color: aquamarine;
-    padding: 1rem;
+  background-color: aquamarine;
+  padding: 2rem;
 }
