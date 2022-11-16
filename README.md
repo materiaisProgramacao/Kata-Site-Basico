@@ -23,7 +23,7 @@ Uma opção mais *semãntica*: ```nav>(a*3)```
 - e os que ainda não criamos: ```sobre.html``` e ```contato.html```  
 
 8. Criar algum conteúdo fictício dentro do main  
-```(p>lorem)*4```  
+```(p>lorem)*12```    
 
 9. Criar as outras páginas (sobre.html e contato.html)  
 9.1 Já podemos aproveitar e copiar o menu de navegação (tag ```<nav>```) da página inicial nas outras duas páginas.  
