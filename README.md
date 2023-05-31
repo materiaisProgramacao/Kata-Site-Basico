@@ -4,7 +4,7 @@ Um site com três páginas (Início, Sobre e Contato) em três arquivos HTML (in
   
 Passos:  
 
-1. Abrir o PowerShell
+1. Abrir o Terminal (PowerShell, no Windows)
 2. ```cd Desktop```
 3. ```mkdir novoProjeto```
 4. ```cd novoProjeto```
