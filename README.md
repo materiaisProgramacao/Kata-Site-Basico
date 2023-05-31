@@ -1,5 +1,7 @@
-# Kata - Site Básico
-
+# Kata - Site Básico  
+  
+Um site com três páginas (Início, Sobre e Contato) em três arquivos HTML (index.html, sobre.html e contato.html).
+  
 Passos:  
 
 1. Abrir o PowerShell
@@ -14,10 +16,8 @@ Passos:
   
   
 7. Criar um menu no header  
-```ul>(li>a)*3``` (e preencher com o nome das páginas - Início, sobre, contato)  
-Uma opção mais *semãntica*: ```nav>(a*3)```
-  
-  
+```nav>(a*3)`` (e preencher com o nome das páginas - Início, sobre, contato)   
+    
 7.1 Usar o atributo ```href``` da tag ```<a>``` para apontar para os arquivos correspondentes:  
 - ```index.html```  
 - e os que ainda não criamos: ```sobre.html``` e ```contato.html```  
