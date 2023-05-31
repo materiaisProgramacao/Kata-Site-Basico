@@ -16,7 +16,7 @@ Passos:
   
   
 7. Criar um menu no header  
-```nav>(a*3)`` (e preencher com o nome das páginas - Início, sobre, contato)   
+```nav>(a*3)``` (e preencher com o nome das páginas - Início, sobre, contato)   
     
 7.1 Usar o atributo ```href``` da tag ```<a>``` para apontar para os arquivos correspondentes:  
 - ```index.html```  
